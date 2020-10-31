@@ -1,0 +1,2 @@
+# osic
+kaggle competition OSIC
